@@ -1,0 +1,7 @@
+# ninja log v5
+2	222	6892960476237086	CMakeFiles/Course.dir/main.cpp.obj	c745059e40a4179e
+2	227	6892956721596016	CMakeFiles/Course.dir/Student.cpp.obj	e6596cdda808d12
+223	309	6892960477084579	Course.exe	9dbe0097e030affb
+6	306	7024385185212417	CMakeFiles/Course.dir/main.cpp.obj	fd21096345816afb
+15	309	7024385185212417	CMakeFiles/Course.dir/Student.cpp.obj	d04d9823cc80fc5f
+309	436	7024385186462180	Course.exe	b3de9ae67901b453
